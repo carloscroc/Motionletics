@@ -216,7 +216,6 @@ class _AppShellState extends State<AppShell> with WidgetsBindingObserver {
                     pattern: fit.bgPattern,
                     photo: fit.bgPhotoPath,
                     dim: fit.bgDim,
-                    mode: fit.dark ? 'dark' : 'light',
                   ),
                 ),
                 Scaffold(

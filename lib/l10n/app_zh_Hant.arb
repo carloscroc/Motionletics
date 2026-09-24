@@ -415,7 +415,6 @@
   "bgNone": "無",
   "bgDots": "圓點",
   "bgGrid": "格線",
-  "bgPlaster": "水泥漆",
   "data": "資料",
   "exportCsv": "匯出訓練（CSV）",
   "exportBackup": "匯出備份（ZIP）",

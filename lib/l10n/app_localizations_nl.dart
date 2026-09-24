@@ -1283,9 +1283,6 @@ class AppLocalizationsNl extends AppLocalizations {
   String get bgGrid => 'Raster';
 
   @override
-  String get bgPlaster => 'Pleisterwerk';
-
-  @override
   String get data => 'GEGEVENS';
 
   @override

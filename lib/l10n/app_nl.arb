@@ -415,7 +415,6 @@
   "bgNone": "Geen",
   "bgDots": "Punten",
   "bgGrid": "Raster",
-  "bgPlaster": "Pleisterwerk",
   "data": "GEGEVENS",
   "exportCsv": "Trainingen exporteren (CSV)",
   "exportBackup": "Back-up exporteren (ZIP)",

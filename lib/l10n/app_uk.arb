@@ -415,7 +415,6 @@
   "bgNone": "Немає",
   "bgDots": "Крапки",
   "bgGrid": "Сітка",
-  "bgPlaster": "Штукатурка",
   "data": "ДАНІ",
   "exportCsv": "Експорт тренувань (CSV)",
   "exportBackup": "Експорт резервної копії (ZIP)",

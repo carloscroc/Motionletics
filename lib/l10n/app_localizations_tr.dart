@@ -1282,9 +1282,6 @@ class AppLocalizationsTr extends AppLocalizations {
   String get bgGrid => 'Izgara';
 
   @override
-  String get bgPlaster => 'Sıva';
-
-  @override
   String get data => 'VERİLER';
 
   @override

@@ -403,7 +403,6 @@
   "bgNone": "Ninguno",
   "bgDots": "Puntos",
   "bgGrid": "Rejilla",
-  "bgPlaster": "Yeso",
   "data": "DATOS",
   "exportCsv": "Exportar entrenos (CSV)",
   "exportBackup": "Exportar copia (ZIP)",

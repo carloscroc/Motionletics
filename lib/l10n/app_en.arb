@@ -440,7 +440,6 @@
   "bgNone": "None",
   "bgDots": "Dots",
   "bgGrid": "Grid",
-  "bgPlaster": "Plaster",
   "data": "DATA",
   "exportCsv": "Export workouts (CSV)",
   "exportBackup": "Export backup (ZIP)",

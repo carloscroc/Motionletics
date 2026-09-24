@@ -1280,9 +1280,6 @@ class AppLocalizationsEs extends AppLocalizations {
   String get bgGrid => 'Rejilla';
 
   @override
-  String get bgPlaster => 'Yeso';
-
-  @override
   String get data => 'DATOS';
 
   @override

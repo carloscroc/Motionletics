@@ -1283,9 +1283,6 @@ class AppLocalizationsPt extends AppLocalizations {
   String get bgGrid => 'Grade';
 
   @override
-  String get bgPlaster => 'Reboco';
-
-  @override
   String get data => 'DADOS';
 
   @override

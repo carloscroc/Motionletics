@@ -1250,9 +1250,6 @@ class AppLocalizationsKo extends AppLocalizations {
   String get bgGrid => '그리드';
 
   @override
-  String get bgPlaster => '플라스터';
-
-  @override
   String get data => '데이터';
 
   @override

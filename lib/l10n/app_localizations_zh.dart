@@ -1227,9 +1227,6 @@ class AppLocalizationsZh extends AppLocalizations {
   String get bgGrid => '网格';
 
   @override
-  String get bgPlaster => '水泥漆';
-
-  @override
   String get data => '数据备份与导入';
 
   @override
@@ -4089,9 +4086,6 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get bgGrid => '格線';
-
-  @override
-  String get bgPlaster => '水泥漆';
 
   @override
   String get data => '資料';

@@ -1281,9 +1281,6 @@ class AppLocalizationsUk extends AppLocalizations {
   String get bgGrid => 'Сітка';
 
   @override
-  String get bgPlaster => 'Штукатурка';
-
-  @override
   String get data => 'ДАНІ';
 
   @override

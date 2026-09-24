@@ -227,7 +227,6 @@
   "bgNone": "纯色无底纹",
   "bgDots": "点阵",
   "bgGrid": "网格",
-  "bgPlaster": "水泥漆",
   "data": "数据备份与导入",
   "exportCsv": "导出训练记录 (CSV)",
   "exportBackup": "导出完整备份 (JSON)",

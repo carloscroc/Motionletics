@@ -1287,9 +1287,6 @@ class AppLocalizationsDe extends AppLocalizations {
   String get bgGrid => 'Raster';
 
   @override
-  String get bgPlaster => 'Putz';
-
-  @override
   String get data => 'DATEN';
 
   @override

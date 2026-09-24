@@ -1285,9 +1285,6 @@ class AppLocalizationsFr extends AppLocalizations {
   String get bgGrid => 'Grille';
 
   @override
-  String get bgPlaster => 'Enduit';
-
-  @override
   String get data => 'DONNÉES';
 
   @override

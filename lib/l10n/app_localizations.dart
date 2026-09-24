@@ -2300,12 +2300,6 @@ abstract class AppLocalizations {
   /// **'Grid'**
   String get bgGrid;
 
-  /// No description provided for @bgPlaster.
-  ///
-  /// In en, this message translates to:
-  /// **'Plaster'**
-  String get bgPlaster;
-
   /// No description provided for @data.
   ///
   /// In en, this message translates to:

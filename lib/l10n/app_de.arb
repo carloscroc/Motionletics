@@ -438,7 +438,6 @@
   "bgNone": "Keiner",
   "bgDots": "Punkte",
   "bgGrid": "Raster",
-  "bgPlaster": "Putz",
   "data": "DATEN",
   "exportCsv": "Trainings exportieren (CSV)",
   "exportBackup": "Backup exportieren (ZIP)",
