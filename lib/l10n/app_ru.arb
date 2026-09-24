@@ -393,6 +393,7 @@
   "bgNone": "Нет",
   "bgDots": "Точки",
   "bgGrid": "Сетка",
+  "bgPlaster": "Штукатурка",
   "data": "ДАННЫЕ",
   "exportCsv": "Выгрузить тренировки (CSV)",
   "exportBackup": "Выгрузить резервную копию (ZIP)",

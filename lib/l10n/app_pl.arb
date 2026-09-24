@@ -415,6 +415,7 @@
   "bgNone": "Brak",
   "bgDots": "Kropki",
   "bgGrid": "Siatka",
+  "bgPlaster": "Tynk",
   "data": "DANE",
   "exportCsv": "Eksportuj treningi (CSV)",
   "exportBackup": "Eksportuj kopię zapasową (ZIP)",

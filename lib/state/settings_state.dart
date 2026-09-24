@@ -339,7 +339,7 @@ mixin SettingsState on FitCore, ToolsState, LibraryState {
     notifyListeners();
   }
 
-  static const bgPatterns = ['none', 'dots', 'grid', 'photo'];
+  static const bgPatterns = ['none', 'dots', 'grid', 'plaster', 'photo'];
 
   void setBgPattern(String v) {
     if (!bgPatterns.contains(v)) return;

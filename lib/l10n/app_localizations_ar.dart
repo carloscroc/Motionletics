@@ -1273,6 +1273,9 @@ class AppLocalizationsAr extends AppLocalizations {
   String get bgGrid => 'شبكة';
 
   @override
+  String get bgPlaster => 'جبس';
+
+  @override
   String get data => 'البيانات';
 
   @override

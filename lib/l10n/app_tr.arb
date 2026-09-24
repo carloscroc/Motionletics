@@ -415,6 +415,7 @@
   "bgNone": "Yok",
   "bgDots": "Noktalar",
   "bgGrid": "Izgara",
+  "bgPlaster": "Sıva",
   "data": "VERİLER",
   "exportCsv": "Antrenmanları dışa aktar (CSV)",
   "exportBackup": "Yedeği dışa aktar (ZIP)",

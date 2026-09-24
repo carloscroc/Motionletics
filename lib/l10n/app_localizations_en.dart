@@ -1281,6 +1281,9 @@ class AppLocalizationsEn extends AppLocalizations {
   String get bgGrid => 'Grid';
 
   @override
+  String get bgPlaster => 'Plaster';
+
+  @override
   String get data => 'DATA';
 
   @override

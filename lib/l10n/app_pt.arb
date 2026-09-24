@@ -227,6 +227,7 @@
   "bgNone": "Nenhum",
   "bgDots": "Pontos",
   "bgGrid": "Grade",
+  "bgPlaster": "Reboco",
   "data": "DADOS",
   "exportCsv": "Exportar treinos (CSV)",
   "exportBackup": "Exportar backup (JSON)",

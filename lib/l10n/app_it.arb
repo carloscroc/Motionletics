@@ -440,6 +440,7 @@
   "bgNone": "Nessuno",
   "bgDots": "Puntini",
   "bgGrid": "Griglia",
+  "bgPlaster": "Intonaco",
   "data": "DATI",
   "exportCsv": "Esporta allenamenti (CSV)",
   "exportBackup": "Esporta backup (ZIP)",

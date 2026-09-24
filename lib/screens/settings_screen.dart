@@ -924,7 +924,9 @@ class SettingsScreen extends StatelessWidget {
 
   String _bgName(String pattern) => switch (pattern) {
         'none' => t.bgNone,
+        'dots' => t.bgDots,
         'grid' => t.bgGrid,
+        'plaster' => t.bgPlaster,
         'photo' => t.bgPhoto,
         _ => t.bgDots,
       };
@@ -958,6 +960,7 @@ class SettingsScreen extends StatelessWidget {
                       ('none', PhosphorIconsRegular.square),
                       ('dots', PhosphorIconsRegular.dotsNine),
                       ('grid', PhosphorIconsRegular.gridFour),
+                      ('plaster', PhosphorIconsRegular.dotsThree),
                     ])
                       OptionItem(
                         _bgName(pattern),

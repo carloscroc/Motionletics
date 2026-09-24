@@ -415,6 +415,7 @@
   "bgNone": "Aucun",
   "bgDots": "Points",
   "bgGrid": "Grille",
+  "bgPlaster": "Enduit",
   "data": "DONNÉES",
   "exportCsv": "Exporter les séances (CSV)",
   "exportBackup": "Exporter une sauvegarde (ZIP)",

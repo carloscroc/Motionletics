@@ -71,3 +71,8 @@ site/
 # OS junk
 Thumbs.db
 desktop.ini
+
+# Local tooling / build residue
+android/build/
+.omo/
+.worktrees/

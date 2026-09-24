@@ -1232,6 +1232,9 @@ class AppLocalizationsJa extends AppLocalizations {
   String get bgGrid => 'グリッド';
 
   @override
+  String get bgPlaster => '漆喰';
+
+  @override
   String get data => 'データ';
 
   @override

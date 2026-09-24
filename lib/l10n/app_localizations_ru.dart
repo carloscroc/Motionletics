@@ -1325,6 +1325,9 @@ class AppLocalizationsRu extends AppLocalizations {
   String get bgGrid => 'Сетка';
 
   @override
+  String get bgPlaster => 'Штукатурка';
+
+  @override
   String get data => 'ДАННЫЕ';
 
   @override

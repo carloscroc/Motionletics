@@ -1282,6 +1282,9 @@ class AppLocalizationsPl extends AppLocalizations {
   String get bgGrid => 'Siatka';
 
   @override
+  String get bgPlaster => 'Tynk';
+
+  @override
   String get data => 'DANE';
 
   @override

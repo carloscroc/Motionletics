@@ -415,6 +415,7 @@
   "bgNone": "なし",
   "bgDots": "ドット",
   "bgGrid": "グリッド",
+  "bgPlaster": "漆喰",
   "data": "データ",
   "exportCsv": "ワークアウトを書き出す（CSV）",
   "exportBackup": "バックアップを書き出す（ZIP）",

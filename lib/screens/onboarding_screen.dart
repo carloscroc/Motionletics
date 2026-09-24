@@ -63,7 +63,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       body: Stack(
         children: [
           Positioned.fill(child: _Glow(gc)),
-          const Positioned.fill(child: AppBackground(pattern: 'dots')),
+          Positioned.fill(child: AppBackground(pattern: 'dots', mode: fit.dark ? 'dark' : 'light')),
           SafeArea(
             child: Column(
               children: [
