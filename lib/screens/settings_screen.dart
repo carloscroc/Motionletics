@@ -3,6 +3,7 @@ import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:file_picker/file_picker.dart';
+import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 import 'package:home_widget/home_widget.dart';
 import 'package:image_picker/image_picker.dart';
@@ -267,7 +268,7 @@ class SettingsScreen extends StatelessWidget {
               ),
             ),
             const SizedBox(height: 18),
-            if (Platform.isAndroid || Platform.isIOS) ...[
+            if (!kIsWeb && (Platform.isAndroid || Platform.isIOS)) ...[
               _sectionLabel(gc, t.homeWidgets),
               const SizedBox(height: 8),
               _linkGroup(gc, [
