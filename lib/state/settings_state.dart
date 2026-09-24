@@ -3,7 +3,7 @@ part of 'fit_state.dart';
 const String kBgPhotoId = 'bg';
 
 mixin SettingsState on FitCore, ToolsState, LibraryState {
-  String themePref = 'dark';
+  String themePref = 'light';
 
   bool get dark => themePref == 'system'
       ? PlatformDispatcher.instance.platformBrightness == Brightness.dark
@@ -14,7 +14,8 @@ mixin SettingsState on FitCore, ToolsState, LibraryState {
   ThemeMode get themeMode => switch (themePref) {
         'system' => ThemeMode.system,
         'light' => ThemeMode.light,
-        _ => ThemeMode.dark,
+        'dark' => ThemeMode.dark,
+        _ => ThemeMode.light,
       };
 
   String demoSize = 'large';

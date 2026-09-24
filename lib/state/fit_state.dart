@@ -55,7 +55,7 @@ class FitState extends FitCore
         profile.name = kDefaultName;
       }
 
-      themePref = _themeFrom(data, fallback: 'dark');
+      themePref = _themeFrom(data, fallback: 'light');
       units = data['units'] as String? ?? 'kg';
 
       _applyLanguage(data['language'] as String? ?? language);

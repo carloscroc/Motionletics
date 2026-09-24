@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:gymmane/models/exercise.dart';
 import 'package:gymmane/models/live_session.dart';
@@ -385,6 +386,20 @@ void main() {
       expect(fit.themePref, 'system');
       fit.applyBackup({'dark': false});
       expect(fit.themePref, 'light');
+      fit.setThemePref('dark');
+    });
+
+    test('an unknown or missing theme preference falls back to light', () {
+      fit.themePref = 'nonsense';
+      expect(fit.themeMode, ThemeMode.light);
+      expect(fit.dark, isFalse);
+      fit.setThemePref('dark');
+    });
+
+    test('a stored dark preference still selects the dark theme', () {
+      fit.setThemePref('dark');
+      expect(fit.themeMode, ThemeMode.dark);
+      expect(fit.dark, isTrue);
       fit.setThemePref('dark');
     });
 
